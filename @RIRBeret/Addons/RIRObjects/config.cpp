@@ -1,6 +1,6 @@
 class CfgPatches
 {
-	class
+	class RIRBeret
 	{
 		author="Kalimedes";
 		name="Beret for RIR";
